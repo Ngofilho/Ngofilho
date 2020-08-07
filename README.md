@@ -7,7 +7,7 @@
 
 ### Contatos / Contacts
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/documentations/blob/master/images/common/email.png" />][gmail]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/email.png" />][gmail]
 <br />
 
 ### Languages and Tools:
