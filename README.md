@@ -65,5 +65,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
-[skype]: Ngofilho
+[skype]: skype:Ngofilho?chat
 
