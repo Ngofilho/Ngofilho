@@ -11,7 +11,7 @@
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skype.png" />][skype]
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas / Languages and Tools:
 <a href="https://github.com/Ngofilho">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
 </a>    
