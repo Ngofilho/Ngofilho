@@ -4,9 +4,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
 </a>
 <br />
-<a href="https://github.com/Ngofilho">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
-</a>
 
 ### Contatos / Contacts
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -14,6 +11,10 @@
 <br />
 
 ### Languages and Tools:
+<a href="https://github.com/Ngofilho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
+</a>    
+
 [<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][webdevplaylist]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
