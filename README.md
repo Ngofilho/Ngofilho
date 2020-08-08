@@ -72,3 +72,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=github-readme-stats)](https://github.com/ngofilho/github-readme-stats)
