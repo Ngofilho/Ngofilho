@@ -73,5 +73,13 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=github-readme-stats)](https://github.com/ngofilho/github-readme-stats)
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=easynvestresolution)](https://github.com/ngofilho/easynvestresolution)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=MSTest)](https://github.com/ngofilho/MSTest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=actions-workflow-samples)](https://github.com/ngofilho/actions-workflow-samples)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=consolescreencsharp)](https://github.com/ngofilho/consolescreencsharp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/ngofilho/C-Sharp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ngofilho/system-design-primer)
