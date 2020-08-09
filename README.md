@@ -1,5 +1,5 @@
 ### Olá, Seja bem-vindo(a) ao Github do Nilo! / Hi, be Welcome to my Nilo's Github!
-### 📝 [Cv / Resume](https://drive.google.com/file/d/1QTuiKZW6I1HFPi2V1qw7SCPVvGufi-Ck/view)
+### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1RBY4xKM55HqJ5nkVw9SiUBqy8gJhAd8i/view?usp=sharing)
 ### Infos:
 <a href="https://github.com/Ngofilho">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
