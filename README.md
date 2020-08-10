@@ -41,7 +41,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][webdevplaylist]
 
-
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][webdevplaylist]
@@ -64,6 +63,7 @@
 
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webdevplaylist]
 [<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" />][togaf]
 <br />
 <br />
 
@@ -72,7 +72,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
-
+[togaf]: https://www.opengroup.org/certifications/togaf
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=easynvestresolution)](https://github.com/ngofilho/easynvestresolution)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=MSTest)](https://github.com/ngofilho/MSTest)
