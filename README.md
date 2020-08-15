@@ -2,7 +2,7 @@
 ### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1RBY4xKM55HqJ5nkVw9SiUBqy8gJhAd8i/view?usp=sharing)
 ### Infos:
 <a href="https://github.com/Ngofilho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
+ <img align="center" src="https://ngofilho.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
 </a>
 <br />
 
@@ -15,7 +15,7 @@
 
 ### Linguagens e Ferramentas / Languages and Tools:
 <a href="https://github.com/Ngofilho">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
+ <img align="center" src="https://ngofilho.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
 </a>    
 
 <br/>     
@@ -77,11 +77,11 @@
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=easynvestresolution)](https://github.com/ngofilho/easynvestresolution)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=MSTest)](https://github.com/ngofilho/MSTest)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=actions-workflow-samples)](https://github.com/ngofilho/actions-workflow-samples)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=consolescreencsharp)](https://github.com/ngofilho/consolescreencsharp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/ngofilho/C-Sharp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ngofilho/system-design-primer)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=MSTest)](https://github.com/ngofilho/MSTest)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=actions-workflow-samples)](https://github.com/ngofilho/actions-workflow-samples)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=consolescreencsharp)](https://github.com/ngofilho/consolescreencsharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/ngofilho/C-Sharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ngofilho/system-design-primer)
