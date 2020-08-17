@@ -78,7 +78,6 @@
 
 [![ReadMe Card](https://github-readme-stats.ngofilho.vercel.app/api/pin/?username=ngofilho&repo=easynvestresolution)](https://github.com/ngofilho/easynvestresolution)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=MSTest)](https://github.com/ngofilho/MSTest)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=actions-workflow-samples)](https://github.com/ngofilho/actions-workflow-samples)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=consolescreencsharp)](https://github.com/ngofilho/consolescreencsharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
