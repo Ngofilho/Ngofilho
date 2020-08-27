@@ -80,5 +80,8 @@
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/ngofilho/C-Sharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ngofilho/system-design-primer)
+
+# DDD
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
