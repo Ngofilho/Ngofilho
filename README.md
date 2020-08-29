@@ -85,3 +85,6 @@
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+
+---
+[![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
