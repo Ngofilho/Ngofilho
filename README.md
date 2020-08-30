@@ -72,6 +72,10 @@
 
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+<details><summary>Templates</summary>
+[HTML](https://html5up.net/)<br/>
+[React/CSS](https://html5up.net/)<br/>
+</details>
 </details>
  
 ---
