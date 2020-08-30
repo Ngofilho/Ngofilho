@@ -34,6 +34,7 @@
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&theme=merko&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&theme=merko&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&theme=merko&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&theme=merko&repo=CleanArchitecture)](https://github.com/ardalis/CleanArchitecture)
 </details>
 
 <details><summary>DB</summary>
@@ -49,6 +50,11 @@
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=virtual-modelling-templates)](https://github.com/ddd-crew/virtual-modelling-templates)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=bounded-context-canvas)](https://github.com/ddd-crew/bounded-context-canvas)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=VaughnVernon&theme=merko&repo=IDDD_Samples_NET)](https://github.com/VaughnVernon/IDDD_Samples_NET)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&theme=merko&repo=ddd-guestbook)](https://github.com/ardalis/ddd-guestbook)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=EduardoPires&theme=merko&repo=EquinoxProject)](https://github.com/EduardoPires/EquinoxProject)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=vkhorikov&theme=merko&repo=DddInAction)](https://github.com/vkhorikov/DddInAction)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=zkavtaskin&theme=merko&repo=Domain-Driven-Design-Example)](https://github.com/zkavtaskin/Domain-Driven-Design-Example)
 </details>
 
 <details><summary>C#</summary>
