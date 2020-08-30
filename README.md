@@ -85,30 +85,29 @@
  
 <details><summary>Utils</summary>
 
-[Public APIs](https://github.com/public-apis/public-apis)<br/>
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)<br/>
 </details>
 <details><summary>Architecture</summary>
 
-[Architecture Decision Record - ADR](https://github.com/joelparkerhenderson/architecture_decision_record)<br/>
-[The System Design Primer](https://github.com/donnemartin/system-design-primer)<br/>
-[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
 </details>
 
-<details><summary>Cards</summary>
+<details><summary>DB</summary>
 
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
 </details>
 
 <details><summary>DDD</summary>
 
-[Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)<br/>
-[Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)<br/>
-[The Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)<br/>
-[Virtual Modelling Templates](https://github.com/ddd-crew/virtual-modelling-templates)<br/>
-[The Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)<br/>
-[Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)<br/>
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=domain-message-flow-modelling)](https://github.com/ddd-crew/domain-message-flow-modelling)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=aggregate-design-canvas)](https://github.com/ddd-crew/aggregate-design-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=virtual-modelling-templates)](https://github.com/ddd-crew/virtual-modelling-templates)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=bounded-context-canvas)](https://github.com/ddd-crew/bounded-context-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
 </details>
 
 <details><summary>C#</summary>
