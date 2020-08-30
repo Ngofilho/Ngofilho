@@ -81,10 +81,47 @@
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
 
-# DDD
+# Utils
+<details><summary>Links</summary>
+ 
+<details><summary>Utils</summary>
+
+[Public APIs]()
+</details>
+<details><summary>Architecture</summary>
+
+[Architecture Decision Record - ADR](https://github.com/joelparkerhenderson/architecture_decision_record)<br/>
+[The System Design Primer](https://github.com/donnemartin/system-design-primer)<br/>
+[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
+</details>
+
+<details><summary>Cards</summary>
+
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+</details>
 
+<details><summary>DDD</summary>
+
+[Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)<br/>
+[Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)<br/>
+[The Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)<br/>
+[Virtual Modelling Templates](https://github.com/ddd-crew/virtual-modelling-templates)<br/>
+[The Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)<br/>
+[Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)<br/>
+</details>
+
+<details><summary>C#</summary>
+ 
+ [C# Algorithms](https://github.com/TheAlgorithms/C-Sharp)<br/>
+</details>
+
+<details><summary>Javascript</summary>
+ 
+ [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)<br/>
+</details>
+</details>
+ 
 ---
 [![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
