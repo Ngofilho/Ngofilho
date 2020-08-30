@@ -1,22 +1,78 @@
-### Olá, Seja bem-vindo(a) ao Github do Nilo! / Hi, be Welcome to my Nilo's Github !
+### Olá, Seja bem-vindo(a) ao meu Github! / Hi, be Welcome to mine Github!
+### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1RBY4xKM55HqJ5nkVw9SiUBqy8gJhAd8i/view?usp=sharing)
 ### Infos:
 <a href="https://github.com/Ngofilho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
+ <img align="center" src="https://ngofilho.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
 </a>
 <br />
 
 ### Contatos / Contacts
+
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]    
+
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas / Languages and Tools:
 <a href="https://github.com/Ngofilho">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
+ <img align="center" src="https://ngofilho.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
 </a>    
 
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][webdevplaylist]
+<br/>     
+
+### Referências/References
+
+<details><summary>Links</summary>
+ 
+<details><summary>Utils</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)<br/>
+</details>
+<details><summary>Architecture</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&theme=merko&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&theme=merko&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&theme=merko&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
+</details>
+
+<details><summary>DB</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
+</details>
+
+<details><summary>DDD</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=domain-message-flow-modelling)](https://github.com/ddd-crew/domain-message-flow-modelling)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=aggregate-design-canvas)](https://github.com/ddd-crew/aggregate-design-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=virtual-modelling-templates)](https://github.com/ddd-crew/virtual-modelling-templates)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=bounded-context-canvas)](https://github.com/ddd-crew/bounded-context-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&theme=merko&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
+</details>
+
+<details><summary>C#</summary>
+ 
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
+</details>
+
+<details><summary>Javascript</summary>
+ 
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&theme=merko&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
+</details>
+
+<details><summary>Creditos/Credits</summary>
+
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+</details>
+ 
+---
+[![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
+
+---
+###### Tecnologias / Techs     
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -34,6 +90,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -56,13 +113,15 @@
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][webdevplaylist]
 
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webdevplaylist]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" />][togaf]
 <br />
 <br />
 
----
 [linkedin]: https://linkedin.com/in/nilogomes
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
+[togaf]: https://www.opengroup.org/certifications/togaf
 [skype]: skype:Ngofilho?chat
