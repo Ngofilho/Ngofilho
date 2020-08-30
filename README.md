@@ -75,7 +75,7 @@
 <details><summary>Templates</summary>
 
 [HTML](https://html5up.net/)<br/>
-[React/CSS](https://html5up.net/)<br/>
+[CSS]https://www.csscodelab.com/)<br/>
 </details>
 </details>
  
