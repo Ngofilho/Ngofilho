@@ -96,9 +96,9 @@
 
 <details><summary>Cards</summary>
 
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=system-design-primer)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
 </details>
 
 <details><summary>DDD</summary>
@@ -113,14 +113,13 @@
 
 <details><summary>C#</summary>
  
- [C# Algorithms](https://github.com/TheAlgorithms/C-Sharp)
- [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
- [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
 </details>
 
 <details><summary>Javascript</summary>
  
- [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)<br/>
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
 </details>
 </details>
  
