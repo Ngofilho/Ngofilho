@@ -23,9 +23,6 @@
 
 ---
 
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
-
-
 <details><summary>Links</summary>
  
 <details><summary>Utils</summary>
@@ -121,4 +118,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
-[togaf]: https://www.opengroup.org/certifications/togaf    
+[togaf]: https://www.opengroup.org/certifications/togaf
+[skype]: skype:Ngofilho?chat
