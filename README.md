@@ -7,9 +7,10 @@
 <br />
 
 ### Contatos / Contacts
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]
 
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]    
 
 <br />
 
@@ -19,6 +20,54 @@
 </a>    
 
 <br/>     
+
+---
+
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
+
+
+<details><summary>Links</summary>
+ 
+<details><summary>Utils</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)<br/>
+</details>
+<details><summary>Architecture</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
+</details>
+
+<details><summary>DB</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
+</details>
+
+<details><summary>DDD</summary>
+
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=domain-message-flow-modelling)](https://github.com/ddd-crew/domain-message-flow-modelling)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=aggregate-design-canvas)](https://github.com/ddd-crew/aggregate-design-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=virtual-modelling-templates)](https://github.com/ddd-crew/virtual-modelling-templates)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=bounded-context-canvas)](https://github.com/ddd-crew/bounded-context-canvas)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
+</details>
+
+<details><summary>C#</summary>
+ 
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
+</details>
+
+<details><summary>Javascript</summary>
+ 
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
+</details>
+</details>
+ 
+---
+[![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
 
 ---
 ###### Tecnologias / Techs     
@@ -73,54 +122,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
 [togaf]: https://www.opengroup.org/certifications/togaf    
-
----
-
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=.vimrc)](https://github.com/ngofilho/.vimrc)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/ngofilho/C-Sharp)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=public-apis)](https://github.com/ngofilho/public-apis)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=architecture_decision_record)](https://github.com/ngofilho/architecture_decision_record)
-
-<details><summary>Links</summary>
- 
-<details><summary>Utils</summary>
-
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)<br/>
-</details>
-<details><summary>Architecture</summary>
-
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
-</details>
-
-<details><summary>DB</summary>
-
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=scripts-db)](https://github.com/Ngofilho/scripts-db)
-</details>
-
-<details><summary>DDD</summary>
-
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=ddd-starter-modelling-process)](https://github.com/ddd-crew/ddd-starter-modelling-process)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=domain-message-flow-modelling)](https://github.com/ddd-crew/domain-message-flow-modelling)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=aggregate-design-canvas)](https://github.com/ddd-crew/aggregate-design-canvas)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=virtual-modelling-templates)](https://github.com/ddd-crew/virtual-modelling-templates)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=bounded-context-canvas)](https://github.com/ddd-crew/bounded-context-canvas)
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ddd-crew&repo=core-domain-charts)](https://github.com/ddd-crew/core-domain-charts)
-</details>
-
-<details><summary>C#</summary>
- 
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
-</details>
-
-<details><summary>Javascript</summary>
- 
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
-</details>
-</details>
- 
----
-[![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
