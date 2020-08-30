@@ -61,6 +61,11 @@
  
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&theme=merko&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
 </details>
+
+<details><summary>Creditos/Credits</summary>
+
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 </details>
  
 ---
