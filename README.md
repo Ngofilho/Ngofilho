@@ -86,7 +86,7 @@
  
 <details><summary>Utils</summary>
 
-[Public APIs]()
+[Public APIs](https://github.com/public-apis/public-apis)
 </details>
 <details><summary>Architecture</summary>
 
