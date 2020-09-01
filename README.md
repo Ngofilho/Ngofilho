@@ -59,7 +59,7 @@
 
 <details><summary>C#</summary>
  
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ngofilho&repo=C-Tests-Frameworks)](https://github.com/Ngofilho/C-Tests-Frameworks)
 </details>
 
