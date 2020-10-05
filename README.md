@@ -77,6 +77,8 @@
 
 [HTML](https://html5up.net/)<br/>
 [CSS](https://www.csscodelab.com/)<br/>
+[Responsive](https://tburleson-layouts-demos.firebaseapp.com/#/docs)<br/>
+[FlexLayout](https://www.npmjs.com/package/@angular/flex-layout)<br/>
 </details>
 </details>
  
