@@ -1,4 +1,4 @@
-### Olá, Seja bem-vindo(a) ao meu Github! / Hi, be Welcome to my Github!
+### Olá, Seja bem-vindo(a) ao meu Github! / Hi, Welcome to my Github!
 ### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1RBY4xKM55HqJ5nkVw9SiUBqy8gJhAd8i/view?usp=sharing)
 ### Infos:
 <a href="https://github.com/Ngofilho">
