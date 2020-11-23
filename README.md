@@ -85,6 +85,7 @@
 ---
 [![HitCount](http://hits.dwyl.com/ngofilho/ngofilho.svg)](http://hits.dwyl.com/ngofilho/ngofilho)
 
+[![codecov](https://codecov.io/gh/Ngofilho/Ngofilho/branch/master/graph/badge.svg?token=QntZfKD73o)](https://codecov.io/gh/Ngofilho/Ngofilho)
 ---
 ###### Tecnologias / Techs     
 
