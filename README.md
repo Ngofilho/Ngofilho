@@ -78,6 +78,7 @@
 [CSS](https://www.csscodelab.com/)<br/>
 [Responsive](https://tburleson-layouts-demos.firebaseapp.com/#/docs)<br/>
 [FlexLayout](https://www.npmjs.com/package/@angular/flex-layout)<br/>
+[Azure ARM Templates](https://github.com/azure/azure-quickstart-templates.git)<br/>
 </details>
 </details>
  
