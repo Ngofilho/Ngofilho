@@ -61,6 +61,7 @@
  
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=davidfowl&repo=AspNetCoreDiagnosticScenarios)](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ardalis&repo=kata-catalog)](https://github.com/ardalis/kata-catalog)
 </details>
 
 <details><summary>Javascript</summary>
