@@ -27,7 +27,8 @@
  
 <details><summary>Utils</summary>
 
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)<br/>
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&repo=kata-catalog)](https://github.com/ardalis/kata-catalog)
 </details>
 <details><summary>Architecture</summary>
 
@@ -61,7 +62,6 @@
  
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=davidfowl&repo=AspNetCoreDiagnosticScenarios)](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
-[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=ardalis&repo=kata-catalog)](https://github.com/ardalis/kata-catalog)
 </details>
 
 <details><summary>Javascript</summary>
@@ -80,6 +80,7 @@
 [Responsive](https://tburleson-layouts-demos.firebaseapp.com/#/docs)<br/>
 [FlexLayout](https://www.npmjs.com/package/@angular/flex-layout)<br/>
 [Azure ARM Templates](https://github.com/azure/azure-quickstart-templates.git)<br/>
+[Free For Devs](https://free-for.dev/)<br/>
 </details>
 </details>
  
