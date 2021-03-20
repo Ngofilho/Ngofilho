@@ -73,6 +73,14 @@
 
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+
+<details><summary>Gists</summary>
+
+[Prepare Commit Message](https://gist.github.com/Ngofilho/342d50241f3a02182941e0252da1ea89)<br/>
+[Git Configuration](https://gist.github.com/Ngofilho/a48a1f5828c707824b0f2e804b79b730)<br/>
+
+</details>
+
 <details><summary>Templates</summary>
 
 [HTML](https://html5up.net/)<br/>
