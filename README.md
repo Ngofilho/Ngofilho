@@ -27,7 +27,7 @@
  
 <details><summary>Utils</summary>
 
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=public-apis&repo=public-apis)](https://github.com/public-apis/public-apis)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=pawelbr&repo=awesome-repos)](https://github.com/pawelbr/awesome-repos)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&repo=kata-catalog)](https://github.com/ardalis/kata-catalog)
 </details>
 <details><summary>Architecture</summary>
@@ -94,9 +94,9 @@
  
 ---
 <p align="center">
- <a href="http://hits.dwyl.com/ngofilho" alt="hits">
+ <!--<a href="http://hits.dwyl.com/ngofilho" alt="hits">
   <img src="http://hits.dwyl.com/ngofilho/ngofilho.svg">
- </a>
+ </a>-->
  <a href="http://codecov.io/gh/Ngofilho/ngofilho" alt="Code Coverage/Tests">
   <img src="https://codecov.io/gh/Ngofilho/Ngofilho/branch/master/graph/badge.svg?token=QntZfKD73o">
  </a>
