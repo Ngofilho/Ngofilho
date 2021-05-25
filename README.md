@@ -1,8 +1,20 @@
 ### Olá, Seja bem-vindo(a) ao meu Github! / Hi, Welcome to my Github!
 ### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1HeHbxhBYp-EBgwWu_3psElzNuJs52MI_/view?usp=sharing)
 
-### Infos:
+### Contatos / Contacts
 
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
+[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]       
+</br>
+
+### Infos:
+<div>
+ <a>     
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6)](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6)      
+ </a>
+ </div>
 <div>
 <a href="https://github.com/Ngofilho">
  <img align="center" src="https://ngofilho.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/> 
@@ -11,22 +23,11 @@
 
 <br />      
 
-
-
-### Contatos / Contacts
-
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
-[<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]    
-
-<br />
-
 ### Linguagens e Ferramentas / Languages and Tools:
-<a href="https://github.com/Ngofilho">
+<a>
  <img align="center" src="https://ngofilho.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
-</a>    
-
-<br/>     
+</a>
+ <br/>     
 
 ### Referências/References
 
