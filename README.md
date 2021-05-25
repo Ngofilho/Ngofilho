@@ -1,13 +1,16 @@
 ### Olá, Seja bem-vindo(a) ao meu Github! / Hi, Welcome to my Github!
 ### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1HeHbxhBYp-EBgwWu_3psElzNuJs52MI_/view?usp=sharing)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ngofilho&column=7)](https://github.com/ngofilho/github-profile-trophy)
-
 ### Infos:
+
+<div>
 <a href="https://github.com/Ngofilho">
- <img align="center" src="https://ngofilho.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/>
-</a>
-<br />
+ <img align="center" src="https://ngofilho.vercel.app/api?username=Ngofilho&show_icons=true&theme=merko&line_height=27&include_all_commits=true&hide=contribs" alt="Nilo's github stats"/> 
+</a>      
+</div>    
+
+<br />      
+
 
 
 ### Contatos / Contacts
