@@ -12,7 +12,7 @@
 <div>
  <a>     
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6)](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6)      
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ngofilho&column=6&margin-w=15)      
  </a>
  </div>
 <div>
