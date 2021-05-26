@@ -105,9 +105,14 @@
  <!--<a href="http://hits.dwyl.com/ngofilho" alt="hits">
   <img src="http://hits.dwyl.com/ngofilho/ngofilho.svg">
  </a>-->
+<!--
+ ![Visitors Since 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ngofilho&repo=ngofilho)     
+ -->
  <a href="http://codecov.io/gh/Ngofilho/ngofilho" alt="Code Coverage/Tests">
   <img src="https://codecov.io/gh/Ngofilho/Ngofilho/branch/master/graph/badge.svg?token=QntZfKD73o">
- </a>
+ </a>     
+ 
+
 </p> 
 
 ---
