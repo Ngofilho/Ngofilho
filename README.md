@@ -35,12 +35,12 @@
  
 <details><summary>Utils</summary>
 
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=pawelbr&repo=awesome-repos)](https://github.com/pawelbr/awesome-repos)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=pawelborkar&repo=awesome-repos)](https://github.com/pawelborkar/awesome-repos)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&repo=kata-catalog)](https://github.com/ardalis/kata-catalog)
 </details>
 <details><summary>Architecture</summary>
 
-[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&theme=merko&repo=architecture_decision_record)](https://github.com/joelparkerhenderson/architecture_decision_record)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=joelparkerhenderson&theme=merko&repo=architecture-decision-record)](https://github.com/joelparkerhenderson/architecture-decision-record)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&theme=merko&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&theme=merko&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&theme=merko&repo=CleanArchitecture)](https://github.com/ardalis/CleanArchitecture)
