@@ -136,9 +136,9 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][redis]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][webdevplaylist]
 
@@ -184,3 +184,17 @@
 [sql]: https://github.com/topics/sql
 [mysql]: https://github.com/topics/mysql
 [mongodb]: https://github.com/topics/mongodb
+[redis]:  https://github.com/topics/redis
+[git]:  https://github.com/topics/git
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
+[]:  https://github.com/topics/
