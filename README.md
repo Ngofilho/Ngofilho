@@ -123,8 +123,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>][typescript]
-[<img align="left" alt="jQquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][webdevplaylist]
-[<img align="left" alt="jQquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][webdevplaylist]
+[<img align="left" alt="jQquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jQquery]
+[<img align="left" alt="jQquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][webdevplaylist]
 
 [<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />][webdevplaylist]
@@ -166,8 +166,6 @@
 
 [linkedin]: https://linkedin.com/in/nilogomes
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [gmail]: mailto:nilogomes@gmail.com?subject=Contato&nbsp;/&nbsp;Contact&nbsp;Github
 [togaf]: https://www.opengroup.org/certifications/togaf
 [skype]: skype:Ngofilho?chat
@@ -175,3 +173,5 @@
 [html]: https://www.w3.org/html/
 [css]: https://www.w3.org/Style/
 [javascript]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[jQquery]: https://github.com/topics/jquery
+[json]: https://github.com/topics/json
