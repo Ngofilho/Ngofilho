@@ -139,7 +139,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][redis]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github-api]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][k8s]
@@ -188,6 +188,7 @@
 [mongodb]: https://github.com/topics/mongodb
 [redis]:  https://github.com/topics/redis
 [git]:  https://github.com/topics/git
+[github-api]:  https://github.com/topics/github-api
 [markdown]:  https://github.com/topics/markdown
 [k8s]:  https://github.com/topics/kubernetes
 [docker]:  https://github.com/topics/docker
