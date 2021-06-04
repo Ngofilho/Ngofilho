@@ -208,5 +208,5 @@
 [azure]:  https://github.com/topics/azure
 [aws]:  https://github.com/topics/aws
 [graphql]:  https://github.com/topics/graphql
-[kafka]:
-[rabbitmq]:
+[kafka]: https://kafka.apache.org/
+[rabbitmq]: https://www.rabbitmq.com/
