@@ -164,7 +164,7 @@
 [<img align="left" alt="Togaf" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" />][togaf]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
 
-[<img align="left" alt="Kafka" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka.png" />][kafka]
+[<img align="left" alt="Kafka" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka2.png" />][kafka]
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
 <br />
 <br />
