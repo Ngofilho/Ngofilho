@@ -166,6 +166,7 @@
 
 [<img align="left" alt="Kafka" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka2.png" />][kafka]
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
+[<img align="left" alt="AZ 204" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azure-developer-associate-600x600.png">][az204]
 <br />
 <br />
 
@@ -210,3 +211,4 @@
 [graphql]:  https://github.com/topics/graphql
 [kafka]: https://kafka.apache.org/
 [rabbitmq]: https://www.rabbitmq.com/
+[az204]: https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
