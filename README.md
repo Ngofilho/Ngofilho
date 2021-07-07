@@ -150,7 +150,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="Windows" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/WindowsColor.png" />][windows]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
-[<img align="left" alt="Azure" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][azure]
+[<img align="left" alt="Azure" width="30px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][azure]
 [<img align="left" alt="Togaf" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" />][togaf]
 [<img align="left" alt="GraphQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
