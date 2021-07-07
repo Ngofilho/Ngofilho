@@ -167,6 +167,9 @@
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
 
 
+[<img align="left" alt="Kafka" width="20px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" />][kafka]
+
+
 <br />
 <br />
 
