@@ -165,8 +165,7 @@
 [<img align="left" alt="GraphQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
 
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
-[<img align="left" alt="AZ 204" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azure-developer-associate-600x600.png">][az204]
-[<img align="left" alt="Kafka" width="20px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" />][kafka]     
+
 
 <br />
 <br />
