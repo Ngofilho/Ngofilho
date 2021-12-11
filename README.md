@@ -28,6 +28,7 @@
  <img align="center" src="https://ngofilho.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
 </a>
  <br/>     
+![kafka3](https://user-images.githubusercontent.com/4623592/145661154-3c79b976-0085-48a6-bb3c-c2a2f9832a28.png)
 
 ### Referências/References
 
@@ -117,46 +118,52 @@
 
 ---
  
-###### Tecnologias / Techs     
+###### Tecnologias - Ferramentas / Techs - Tools      
 
-[<img align="left" alt="AWS" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
-[<img align="left" alt="Kafka" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" />][kafka]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>][typescript]
-[<img align="left" alt="jQquery" width="24px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Jquery.png" />][jQquery]
-[<img align="left" alt="Json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />][aspnet]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="24px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mongodb.png" />][mongodb]
-[<img align="left" alt="Redis" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" />][redis]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github-api]
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][k8s]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>][bash]
-[<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][raspberry-pi]
-[<img align="left" alt="Mac OS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][macos]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
-[<img align="left" alt="Windows" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/WindowsColor.png" />][windows]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
-[<img align="left" alt="Togaf" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" />][togaf]
-[<img align="left" alt="GraphQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
-[<img align="left" alt="Rabbit MQ" width="26px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" />][rabbitmq]
-[<img align="left" alt="AZ 204" width="20px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azure-developer-associate-600x600.png">][az204]
-[<img align="left" alt="Azure" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][azure]
+<p style="align:left">
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
+ <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQquery" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Jquery.png" /></a> 
+<a href="https://www.json.org/" target="_blank"><img align="left" alt="Json" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a> 
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
+ <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="Asp.Net" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" /></a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
+ <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+ <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a> 
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a> 
+<a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language,Start%20learning%20SQL%20now%20%C2%BB" target="_blank"><img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mysql.png" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mongodb.png" /></a> 
+<a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" /></a> 
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a> 
+<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> 
+<a href="https://www.markdownguide.org/" target="_blank"><img align="left" alt="Markdown" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /></a>
+ <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></a>
+ <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a> 
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+ <a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>
+<a href="https://ss64.com/" target="_blank"><img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank"><img align="left" alt="Raspberry Pi" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" /></a>
+<a href="https://www.apple.com/br/macos/monterey/" target="_blank"><img align="left" alt="Mac OS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" /></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="left" alt="Windows" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/WindowsColor.png" /></a>
+<a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></a>
+<a href="https://www.opengroup.org/togaf" target="_blank"><img align="left" alt="Togaf" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" /></a>
+<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbit MQ" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" /></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" target="_blank"><img align="left" alt="AZ 204" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azure-developer-associate-600x600.png"></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"><img align="left" alt="Azure" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" /></a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
+ <a href="https://ohmyz.sh/" target="_blank"> <img src="" alt="Zsh" width="40" height="40" /></a>
+</p>
 
 <br />
 <br />
