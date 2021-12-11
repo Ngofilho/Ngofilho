@@ -28,7 +28,7 @@
  <img align="center" src="https://ngofilho.vercel.app/api/top-langs/?username=Ngofilho" alt="Nilo's Languanges"/>
 </a>
  <br/>     
-![kafka3](https://user-images.githubusercontent.com/4623592/145661154-3c79b976-0085-48a6-bb3c-c2a2f9832a28.png)
+
 
 ### Referências/References
 
@@ -127,7 +127,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
  <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQquery" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Jquery.png" /></a> 
 <a href="https://www.json.org/" target="_blank"><img align="left" alt="Json" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a> 
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
+<a href="https://github.com/topics/xml" target="_blank"><img align="left" alt="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" /></a> 
+ 
+ <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="Asp.Net" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
@@ -162,7 +164,9 @@
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" /></a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
- <a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
+<a href="https://www.soapui.org/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui-icon.svg" alt="Soapui" width="40" height="40" /></a>
+<a href="https://www.telerik.com/fiddler/fiddler-classic" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler-everywhere.png" alt="Fiddler" width="40" height="40" /></a>
+<a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
 </p>
 
 <br />
