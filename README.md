@@ -162,7 +162,7 @@
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" /></a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
- <a href="https://ohmyz.sh/" target="_blank"> <img src="" alt="Zsh" width="40" height="40" /></a>
+ <a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
 </p>
 
 <br />
