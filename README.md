@@ -148,6 +148,7 @@
  <a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>
 <a href="https://ss64.com/" target="_blank"><img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/></a>
+<a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img align="left" alt="Raspberry Pi" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" /></a>
 <a href="https://www.apple.com/br/macos/monterey/" target="_blank"><img align="left" alt="Mac OS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" /></a>
@@ -163,7 +164,6 @@
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" /></a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 <a href="https://www.soapui.org/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui-icon.svg" alt="Soapui" width="40" height="40" /></a>
-<a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
 <a href="https://www.telerik.com/fiddler/fiddler-classic" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler-everywhere.png" alt="Fiddler" width="40" height="40" /></a>
 </p>
