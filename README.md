@@ -71,6 +71,7 @@
  
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Sharp)](https://github.com/TheAlgorithms/C-Sharp)
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=davidfowl&repo=AspNetCoreDiagnosticScenarios)](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=MoienTajik&repo=AspNetCore-Developer-Roadmap)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) 
 </details>
 
 <details><summary>Javascript</summary>
