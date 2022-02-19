@@ -133,10 +133,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
  <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQquery" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Jquery.png" /></a> 
 <a href="https://www.json.org/" target="_blank"><img align="left" alt="Json" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a> 
-<a href="https://github.com/topics/xml" target="_blank"><img align="left" alt="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" /></a> 
- 
+<a href="https://github.com/topics/xml" target="_blank"><img align="left" alt="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" /></a>  
  <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
- <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="Asp.Net" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" /></a> 
+ <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="Asp.Net" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" /></a>  
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
  <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a> 
@@ -151,8 +151,7 @@
  <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></a>
  <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a> 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
- <a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>
- 
+ <a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a> 
  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="Emacs" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" /></a>
 <a href="https://ss64.com/" target="_blank"><img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/></a>
@@ -163,6 +162,7 @@
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="left" alt="Windows" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/WindowsColor.png" /></a>
 <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></a>
+ <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://www.opengroup.org/togaf" target="_blank"><img align="left" alt="Togaf" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" /></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbit MQ" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" /></a>
