@@ -152,6 +152,8 @@
  <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a> 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
  <a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>
+ 
+ <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="Emacs" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" /></a>
 <a href="https://ss64.com/" target="_blank"><img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/></a>
 <a href="https://ohmyz.sh/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/OMZLogo_BnW.png" alt="Zsh" width="40" height="40" /></a>
