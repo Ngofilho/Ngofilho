@@ -170,10 +170,8 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img align="left" alt="Azure" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka3.png" /></a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-<a href="https://www.soapui.org/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui-icon.svg" alt="Soapui" width="40" height="40" /></a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
-<a href="https://www.telerik.com/fiddler/fiddler-classic" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler-everywhere.png" alt="Fiddler" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" alt="postman" width="40" height="40" /></a>
+<a href="https://www.soapui.org/" target="_blank"> <img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/favicon.png" alt="Soapui" width="40" height="40" /></a>
 </p>
 
 <br />
