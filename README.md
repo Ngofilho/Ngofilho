@@ -171,10 +171,10 @@
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Heroku" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/heroku3.png" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka4.png" /></a>
-<a href="https://postman.com" target="_blank"><img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" alt="postman" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank"><img align="left" alt="Postman" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" /></a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Fiddler" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler.png" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="SoapUI" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui.png" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Postman" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" /></a>
+
 </p>
 
 <br />
