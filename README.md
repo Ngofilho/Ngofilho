@@ -143,7 +143,8 @@
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a> 
 <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language,Start%20learning%20SQL%20now%20%C2%BB" target="_blank"><img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mysql.png" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mongodb.png" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Mongodb.png" /></a>
+<a href="https://azure.microsoft.com/pt-br/services/cosmos-db/" target="_blank"><img align="left" alt="CosmosDB" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/cosmosdb.png" /></a>
 <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/redis.webp" /></a> 
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a> 
 <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> 
@@ -165,16 +166,20 @@
  <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://www.opengroup.org/togaf" target="_blank"><img align="left" alt="Togaf" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/badge-togaf9-certified.png" /></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
+<a href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/msmq/ms711472(v=vs.85)#:~:text=Purpose,and%20read%20messages%20from%20queues." target="_blank"><img align="left" alt="MSMQ" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/msmq.png" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbit MQ" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/rabbitmq.png" /></a>
+<a href="https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview" target="_blank"><img align="left" alt="Azure Service Bus" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/servicebus.png" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka4.png" /></a> 
+<a href="https://azure.microsoft.com/en-us/services/event-hubs/" target="_blank"><img align="left" alt="Azure Event Hub" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/eventhub.png" /></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" target="_blank"><img align="left" alt="AZ 204" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azure-developer-associate-600x600.png"></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img align="left" alt="Azure" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Heroku" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/heroku3.png" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka4.png" /></a>
+<a href="https://heroku.com" target="_blank"><img align="left" alt="Heroku" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/heroku3.png" /></a>
 <a href="https://postman.com" target="_blank"><img align="left" alt="Postman" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" /></a> 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Fiddler" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler.png" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="SoapUI" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui.png" /></a>
-
+<a href="https://www.telerik.com/fiddler/fiddler-classic" target="_blank"><img align="left" alt="Fiddler" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler.png" /></a>
+<a href="https://www.soapui.org/" target="_blank"><img align="left" alt="SoapUI" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui.png" /></a>
+<a href="https://azure.microsoft.com/en-us/services/api-management/" target="_blank"><img align="left" alt="Azure API Management" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/apim.png" /></a>
+ <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"><img align="left" alt="Azure Functions" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azurefunctions.png" /></a>
 </p>
 
 <br />
