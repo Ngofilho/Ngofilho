@@ -172,8 +172,11 @@
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/kafka4.png" /></a>
 <a href="https://postman.com" target="_blank"><img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/postman.png" alt="postman" width="40" height="40" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
+<a href="https://heroku.com" target="_blank"><img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/heroku3.png" alt="heroku" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
+<a href="https://www.soapui.org/" target="_blank"><img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui.png" alt="Soapui" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
+<a href="https://www.telerik.com/fiddler/fiddler-classic" target="_blank"><img src="https://github.com/Ngofilho/Ngofilho/blob/images/images/fiddler.png" alt="Fiddler" width="40" height="40" /></a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/Blazor.png" /></a>
