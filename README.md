@@ -32,12 +32,7 @@
 
 ### Referências/References
 
-<details><summary>Links</summary>
- 
- <details><summary>Snippets</summary>  
-  
-  [Plunker](https://plnkr.co/users/ngofilho/plunks)  
- </details>
+<details><summary>Links</summary> 
  
 <details><summary>Utils</summary>
 
@@ -98,6 +93,7 @@
 
 <details><summary>Templates</summary>
 
+[Plunker](https://plnkr.co/users/ngofilho/plunks)  
 [HTML](https://html5up.net/)<br/>
 [CSS](https://www.csscodelab.com/)<br/>
 [Responsive](https://tburleson-layouts-demos.firebaseapp.com/#/docs)<br/>
