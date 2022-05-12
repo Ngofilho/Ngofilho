@@ -82,6 +82,7 @@
 <details><summary>Creditos/Credits</summary>
 
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=gautamkrishnar&repo=gautamkrishnar)](https://github.com/gautamkrishnar)
 </details>
 
 <details><summary>Gists</summary>
