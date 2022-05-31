@@ -104,7 +104,8 @@
 </details>
  
  <details><summary>Links</summary>   
-  
+ 
+ [JavaScript - And others Web Techs](https://websitesetup.org/javascript-cheat-sheet/)  
  [CSS Artist](https://github.com/cyanharlow)     
  [CSS Battle](https://cssbattle.dev/)   
  </details>
