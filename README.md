@@ -101,6 +101,7 @@
 [FlexLayout](https://www.npmjs.com/package/@angular/flex-layout)<br/>
 [Azure ARM Templates](https://github.com/azure/azure-quickstart-templates.git)<br/>
 [Free For Devs](https://free-for.dev/)<br/>
+[Templates](https://www.digitalocean.com/community/tools/nginx)<br/>
 </details>
  
  <details><summary>Links</summary>   
