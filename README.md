@@ -77,7 +77,9 @@
 <details><summary>Javascript</summary>
  
 [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=trekhleb&theme=merko&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
-</details>
+
+ [![ReadMe Card](https://ngofilho.vercel.app/api/pin/?username=craig-feldman&theme=merko&repo=personal-website-react)](https://github.com/craig-feldman/personal-website-react)
+ </details>
 
 <details><summary>Creditos/Credits</summary>
 
