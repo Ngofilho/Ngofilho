@@ -201,6 +201,7 @@
  
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img align="left" alt="Azure Devops" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azuredevops.png" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img align="left" alt="Github Actions" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/gitactions.png" /></a>
+ <a href="https://aws.amazon.com/ec2/" target="_blank"><img align="left" alt="AWS EC2" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/AWS-ec2.png" /></a>
 </p>
 
 <br />
