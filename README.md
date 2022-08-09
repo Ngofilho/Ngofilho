@@ -105,6 +105,11 @@
 [Free For Devs](https://free-for.dev/)<br/>
 [Nginx Config Samples Templates](https://www.digitalocean.com/community/tools/nginx)<br/>
 </details>
+
+<details><summary>Tools</summary>
+
+[RabbitMQ Simulator](http://tryrabbitmq.com/)
+</details>
  
  <details><summary>Links</summary>   
  
