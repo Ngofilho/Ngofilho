@@ -203,6 +203,7 @@
 <a href="https://github.com/features/actions" target="_blank"><img align="left" alt="Github Actions" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/gitactions.png" /></a>
 <a href="https://aws.amazon.com/ec2/" target="_blank"><img align="left" alt="AWS EC2" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/AWS-ec2.png" /></a>
 <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank"><img align="left" alt="AWS BeanStalk" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-beanstalk.png" /></a>
+<a href="https://aws.amazon.com/DynamoDB/" target="_blank"><img align="left" alt="AWS DynamoDB" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-DybamoDB.png" /></a>
 
 </p>
 
