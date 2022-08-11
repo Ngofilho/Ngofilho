@@ -212,6 +212,7 @@
 <a href="https://aws.amazon.com/RDS/" target="_blank"><img align="left" alt="AWS RDS" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/AWS-rds.png" /></a>
 <a href="https://aws.amazon.com/sns/" target="_blank"><img align="left" alt="AWS SNS" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-sns.png" /></a>
 <a href="https://aws.amazon.com/sqs/" target="_blank"><img align="left" alt="AWS SQS" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws_sqs.png" /></a>
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img align="left" alt="AWS Cloud Watch" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-cloudwatch.png" /></a>
 
 </p>
 
