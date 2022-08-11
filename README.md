@@ -200,7 +200,7 @@
 <a href="https://www.soapui.org/" target="_blank"><img align="left" alt="SoapUI" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/soapui.png" /></a>
 <a href="https://azure.microsoft.com/en-us/services/api-management/" target="_blank"><img align="left" alt="Azure API Management" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/apim.png" /></a>
  <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"><img align="left" alt="Azure Functions" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/azurefunctions.png" /></a>
-<a href="https://azure.microsoft.com/en-us/services/app-service/web/" target="_blank"><img align="left" alt="Azure Webapps" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/webapp.png" /></a>
+<a href="https://azure.microsoft.com/en-us/services/app-service/web/" target="_blank"><img align="left" alt="Azure Webapps" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/az-webapp.webp" /></a>
 <a href="https://azure.microsoft.com/en-us/services/logic-apps/" target="_blank"><img align="left" alt="Azure Logicapps" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/logicapps.png" /></a>
 <a href="https://azure.microsoft.com/en-us/overview/iot/" target="_blank"><img align="left" alt="IoT" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/iot.png" /></a>
  
