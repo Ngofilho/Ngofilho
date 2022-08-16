@@ -215,6 +215,7 @@
 <a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img align="left" alt="AWS Cloud Watch" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-cloudwatch.png" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img align="left" alt="AWS S3" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-s3.png" /></a>
 <a href="https://www.perl.org/" target="_blank"><img align="left" alt="Perl" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/perl.png" /></a>
+<a href="https://www.apachefriends.org" target="_blank"><img align="left" alt="XAMPP" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/xampp.png" /></a>
 
 </p>
 
