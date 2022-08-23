@@ -3,7 +3,6 @@
 
 ### Contatos / Contacts 
 
-<nilo>
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]       
