@@ -1,8 +1,9 @@
 ### Olá, Seja bem-vindo(a) ao meu Github! / Hi, Welcome to my Github!
 ### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1M-TPvaul0HmE1K7BKeqdjfyuBB6wO678/view?usp=sharing)
 
-### Contatos / Contacts
+### Contatos / Contacts 
 
+<nilo>
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/skypebox.png" />][skype]
 [<img align="left" alt="nilofilho | LinkedIn" width="22px" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/email.png" />][gmail]       
