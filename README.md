@@ -1,5 +1,5 @@
 ### Olá, Seja bem-vindo(a) ao meu Github! / Hi, Welcome to my Github!
-### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1M-TPvaul0HmE1K7BKeqdjfyuBB6wO678/view?usp=sharing)
+### 📝 [Curriculum vitæ / Resume](https://drive.google.com/file/d/1-LAO0c_SRj8yhwQtK5jeKbRnDo_wAtQ1/view?usp=sharing)
 
 ### Contatos / Contacts 
 
