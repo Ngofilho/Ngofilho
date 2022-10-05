@@ -45,6 +45,9 @@
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=donnemartin&theme=merko&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=kamranahmedse&theme=merko&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
 [![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=ardalis&theme=merko&repo=CleanArchitecture)](https://github.com/ardalis/CleanArchitecture)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=NikAshanin&theme=merko&repo=Solution-Architect-Road-Map)](https://github.com/NikAshanin/Solution-Architect-Road-Map)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=NikAshanin&theme=merko&repo=Software-Architect-Cheat-Sheet)](https://github.com/NikAshanin/Software-Architect-Cheat-Sheet)
+[![ReadMe Cards](https://ngofilho.vercel.app/api/pin/?username=NikAshanin&theme=merko&repo=Solution-Architecture-Resourses)](https://github.com/NikAshanin/Solution-Architecture-Resourses)
 </details>
 
 <details><summary>DB</summary>
