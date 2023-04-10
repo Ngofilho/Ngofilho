@@ -119,7 +119,8 @@
 
 <details><summary>Tools</summary>
 
-[RabbitMQ Simulator](http://tryrabbitmq.com/)
+[RabbitMQ Simulator](http://tryrabbitmq.com/)  
+[Gerador ASCII Banner](https://manytools.org/hacker-tools/ascii-banner/)  
 </details>
  
  <details><summary>Links</summary>   
