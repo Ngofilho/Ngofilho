@@ -98,7 +98,7 @@
 [Try Hack Me](http://www.tryhackme.com)  
 [HacktheBox - Toma uma máquina e se vira aí.]()  
 [Hackme - Mais Educativo]()  
-[Let's Defence - Voltado para defesa]()  
+[Let's Defense - Voltado para defesa]()  
 </details>
 
 <details><summary>Gists</summary>
