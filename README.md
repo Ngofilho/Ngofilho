@@ -134,6 +134,7 @@
  </details>
  
  <details><summary>Cheat Sheets</summary>
+  
   [HTML/CSS/JS Interactive](https://html-css-js.com/)  
   [CSS](https://github.com/Ngofilho/Ngofilho/blob/images/images/css-cheatsheetv2-1-1024.jpg)  
   [REGEX](https://github.com/Ngofilho/Ngofilho/blob/images/images/davechild_regular-expressions.pdf)  
