@@ -232,6 +232,7 @@
 <a href="https://aws.amazon.com/s3/" target="_blank"><img align="left" alt="AWS S3" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/aws-s3.png" /></a>
 <a href="https://www.perl.org/" target="_blank"><img align="left" alt="Perl" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/perl.png" /></a>
 <a href="https://www.apachefriends.org" target="_blank"><img align="left" alt="XAMPP" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/xampp.png" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview" target="_blank"><img align="left" alt=".Net Aspire" width="40" height="40" src="https://github.com/Ngofilho/Ngofilho/blob/images/images/netaspire.png"/></a>
 
 </p>
 
@@ -279,4 +280,5 @@
 [graphql]:  https://github.com/topics/graphql
 [kafka]: https://kafka.apache.org/
 [rabbitmq]: https://www.rabbitmq.com/
-[az204]: https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
+[az204]: https://docs.microsoft.com/en-us/learn/certifications/exams/az-204   
+[netaspire]: https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview   
