@@ -110,7 +110,6 @@
 
 <details><summary>Templates</summary>
 
-[Plunker](https://plnkr.co/users/ngofilho/plunks)  
 [HTML](https://html5up.net/)<br/>
 [CSS](https://www.csscodelab.com/)<br/>
 [Responsive](https://tburleson-layouts-demos.firebaseapp.com/#/docs)<br/>
@@ -124,6 +123,10 @@
 
 [RabbitMQ Simulator](http://tryrabbitmq.com/)  
 [Gerador ASCII Banner](https://manytools.org/hacker-tools/ascii-banner/)  
+[Plunker](https://plnkr.co/users/ngofilho/plunks)   
+[Code Pen](https://codepen.io/)   
+[Stack Blitz](https://stackblitz.com/)   
+
 </details>
  
  <details><summary>Links</summary>   
