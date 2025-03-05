@@ -134,6 +134,8 @@
  [JavaScript - And others Web Techs](https://websitesetup.org/javascript-cheat-sheet/)  
  [CSS Artist](https://github.com/cyanharlow)     
  [CSS Battle](https://cssbattle.dev/)   
+ [Dribbble - Inpirational Design Site](https://dribbble.com/)   
+ [Free Image Site](https://unsplash.com/)      
  </details>
  
  <details><summary>Cheat Sheets</summary>
